@@ -2,7 +2,8 @@ Dear connections,
 Excited to share my first Power BI dashboard project- Financial Analysis.
 Project objective
 To develop a Financial Dashboard that provides comprehensive Dashboard using Microsoft Power BI. This dashboard brings together key financial metrics, visualizations, and real-time data to empower decision-makers.
-Steps taken:1: Import data from excel to power BI.
+Steps taken:
+1: Import data from excel to power BI.
 *Remove unwanted columns
 *Recheck if there is any missing values or blank space.
 
